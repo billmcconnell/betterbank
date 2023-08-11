@@ -1,3 +1,7 @@
+# About Better Bank
+
+This is a refactoring project of the Bad Bank app, called Bad Bank because there is no security. This refactor makes the bank better, but not to the point where you'd trust it with your money. However user interface and features are significantly improved, and React components abound. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Licensing
+
+This app is covered by the MIT license
